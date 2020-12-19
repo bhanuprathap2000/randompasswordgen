@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Dec 19 14:45:33 2020
+
+@author: Bhanu
+"""
+
+numpy==1.18.5
+pandas==1.1.5
+Pillow==8.0.1
+Flask==1.1.2
+gunicorn==19.9.0
+Jinja2==2.10.1
