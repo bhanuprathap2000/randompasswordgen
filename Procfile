@@ -1,1 +1,1 @@
-web: gunicorn indexrange:app
+web: gunicorn randompassword:app
